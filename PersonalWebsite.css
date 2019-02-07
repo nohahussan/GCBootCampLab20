@@ -1,0 +1,23 @@
+
+img
+{
+  width: 275px;
+  height: auto;
+
+}
+div{
+
+  border: 3px solid burlywood;
+}
+#main-footer
+{
+  padding-top: 60px;
+  padding-bottom: 60px;
+  border-bottom: solid 10px olivedrab;
+
+
+}
+p{
+  text-align: center;
+}
+
